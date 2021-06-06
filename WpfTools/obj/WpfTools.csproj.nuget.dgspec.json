@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Dev\\WpfTools\\WpfTools\\WpfTools.csproj": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "restore": {
         "projectUniqueName": "C:\\Dev\\WpfTools\\WpfTools\\WpfTools.csproj",
         "projectName": "WpfTools",

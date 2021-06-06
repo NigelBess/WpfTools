@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "WpfTools/1.0.1": {
+      "WpfTools/1.0.2": {
         "dependencies": {
           "PresentationCore": "4.0.0.0"
         },
@@ -89,7 +89,7 @@
     }
   },
   "libraries": {
-    "WpfTools/1.0.1": {
+    "WpfTools/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

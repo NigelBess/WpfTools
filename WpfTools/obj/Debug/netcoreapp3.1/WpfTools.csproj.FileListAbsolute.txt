@@ -26,3 +26,4 @@ C:\Dev\WpfTools\WpfTools\obj\Debug\netcoreapp3.1\WpfTools.csproj.CoreCompileInpu
 C:\Dev\WpfTools\WpfTools\obj\Debug\netcoreapp3.1\WpfTools.csproj.CopyComplete
 C:\Dev\WpfTools\WpfTools\obj\Debug\netcoreapp3.1\WpfTools.dll
 C:\Dev\WpfTools\WpfTools\obj\Debug\netcoreapp3.1\WpfTools.pdb
+C:\Dev\WpfTools\WpfTools\obj\Debug\netcoreapp3.1\WpfTools.csproj.AssemblyReference.cache
